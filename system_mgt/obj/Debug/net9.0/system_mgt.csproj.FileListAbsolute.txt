@@ -95,3 +95,4 @@
 /Users/mac/system_mgt/system_mgt/obj/Debug/net9.0/system_mgt.pdb
 /Users/mac/system_mgt/system_mgt/obj/Debug/net9.0/system_mgt.genruntimeconfig.cache
 /Users/mac/system_mgt/system_mgt/obj/Debug/net9.0/ref/system_mgt.dll
+/Users/mac/system_mgt/system_mgt/obj/Debug/net9.0/system_mgt.sourcelink.json
